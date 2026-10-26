@@ -50,9 +50,11 @@ Tabby9 updates itself. New versions download in the background, and you choose w
 
 Tabby9 runs on your computer. It reads Claude Code's own files and your project folders locally, and doesn't send analytics or any of your information to anyone. It only talks to GitHub to check for updates, and, when you use them, through your own GitHub and Claude sign-ins. Details are in the [privacy statement](PRIVACY.md), also at [purplefusion.com.au/privacy](https://purplefusion.com.au/privacy/).
 
-## Support Tabby9
+## Support Tabby9 (opening soon)
 
-Tabby9 is free, and it'll stay free. If it saves you time, you can [sponsor its development](https://github.com/sponsors/PurpleFusion). Sponsorship pays for new features and fixes, and for a code-signing certificate so Windows stops showing the SmartScreen warning on install.
+Tabby9 is free, and it'll stay free. Sponsorship through GitHub Sponsors opens soon, once GitHub approves the page. It'll pay for new features, fixes and a code-signing certificate so Windows stops showing the SmartScreen warning on install. Until then, you can [follow PurpleFusion on GitHub](https://github.com/PurpleFusion).
+
+Planned tiers: **Coffee** US$3/month · **Supporter** US$10/month, with your name in the app · **One-time** US$5.
 
 Found a bug or have an idea? [Open an issue](https://github.com/PurpleFusion/tabby9-releases/issues).
 
