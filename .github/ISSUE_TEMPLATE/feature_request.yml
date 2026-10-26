@@ -1,0 +1,27 @@
+name: Feature request
+description: Suggest an idea or an improvement for Tabby9.
+labels: [enhancement]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for the idea. Issues here are public, so please leave out conversation content, project paths and tokens.
+  - type: textarea
+    id: problem
+    attributes:
+      label: What would it help with?
+      description: The problem or the situation, rather than the solution. For example "I lose track of which tabs are waiting for me".
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: Your idea
+      description: What you'd like Tabby9 to do.
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: What you do now (optional)
+      description: Any workaround you use today, or other tools that do this well.

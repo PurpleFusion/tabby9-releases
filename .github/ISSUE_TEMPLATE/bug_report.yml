@@ -1,0 +1,63 @@
+name: Bug report
+description: Something in Tabby9 isn't working as it should.
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to report this.
+
+        **Please don't paste conversation content, project paths or tokens.** Issues here are public. Describe what happened in general terms, and blur anything private in screenshots. See the [privacy statement](https://github.com/PurpleFusion/tabby9-releases/blob/main/PRIVACY.md).
+  - type: input
+    id: tabby9-version
+    attributes:
+      label: Tabby9 version
+      description: Shown in Settings → About & updates.
+      placeholder: "0.5.5"
+    validations:
+      required: true
+  - type: input
+    id: windows-version
+    attributes:
+      label: Windows version
+      description: "For example Windows 11 24H2. Run `winver` if you're not sure."
+      placeholder: Windows 11 24H2
+    validations:
+      required: true
+  - type: input
+    id: claude-version
+    attributes:
+      label: Claude Code version
+      description: "The output of `claude --version`."
+      placeholder: "2.1.310"
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: What did you do, step by step?
+      placeholder: |
+        1. Open a Claude tab
+        2. Restart Tabby9
+        3. …
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What you expected
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: What happened instead
+      description: Include any error message, with private details removed.
+    validations:
+      required: true
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: Screenshot (optional)
+      description: Drag an image here. Blur conversation content, project names and paths first.
