@@ -5,7 +5,7 @@
 <p align="center"><b>Claude Code tabs with nine lives.</b><br>
 A Windows terminal built for Claude Code, where every tab and conversation comes back after a restart.</p>
 
-<p align="center"><a href="https://github.com/PurpleFusion/tabby9-releases/releases/latest"><b>Download the latest version</b></a></p>
+<p align="center"><a href="https://github.com/PurpleFusion/tabby9-releases/releases/latest"><b>Download the latest version</b></a> · <a href="https://purplefusion.com.au/tabby9/">Website</a></p>
 
 ![Tabby9 with Claude Code beside a PowerShell tab](screenshots/main.png)
 
@@ -48,7 +48,7 @@ Tabby9 updates itself. New versions download in the background, and you choose w
 
 ## Privacy
 
-Tabby9 runs on your computer. It reads Claude Code's own files and your project folders locally, and doesn't send analytics or any of your information to anyone. It only talks to GitHub to check for updates, and, when you use them, through your own GitHub and Claude sign-ins. Details are in the [privacy statement](PRIVACY.md).
+Tabby9 runs on your computer. It reads Claude Code's own files and your project folders locally, and doesn't send analytics or any of your information to anyone. It only talks to GitHub to check for updates, and, when you use them, through your own GitHub and Claude sign-ins. Details are in the [privacy statement](PRIVACY.md), also at [purplefusion.com.au/privacy](https://purplefusion.com.au/privacy/).
 
 ## Support Tabby9
 
