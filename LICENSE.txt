@@ -1,0 +1,102 @@
+TABBY9 END-USER LICENCE AGREEMENT
+
+Copyright (c) 2026 Vidos Consulting Pty Ltd. All rights reserved.
+
+This agreement is between you and Vidos Consulting Pty Ltd ("we", "us")
+and covers the Tabby9 software, its installer, updates and documentation
+("Tabby9"). By installing or using Tabby9 you agree to it. If you don't
+agree, don't install or use Tabby9.
+
+1. What you may do
+
+   You may download, install and use Tabby9, free of charge, for personal
+   or commercial purposes, on any number of computers you own or control.
+   You may tell others about Tabby9 and point them to the official download
+   page at https://github.com/PurpleFusion.
+
+2. What you may not do
+
+   Except where the law expressly allows it, you may not:
+   (a) copy, repackage, redistribute, sell, rent, lend or sublicense Tabby9,
+       or offer it for download anywhere other than the official page;
+   (b) modify, translate, decompile, disassemble or reverse engineer Tabby9,
+       or create works based on it;
+   (c) remove or change any copyright, licence or other notices in it; or
+   (d) use Tabby9 in breach of any law, or of the terms of any service it
+       works with (such as Claude Code, GitHub or Microsoft Windows).
+
+3. Ownership
+
+   Tabby9 is licensed, not sold. We (and our licensors) own all rights in it.
+   This agreement gives you only the rights set out in section 1.
+
+4. Open-source components
+
+   Tabby9 includes open-source software made by others, such as Electron,
+   Chromium, xterm.js and node-pty. Those components are licensed to you
+   under their own licences, listed in THIRD_PARTY_NOTICES.txt and in
+   LICENSES.chromium.html, which come with Tabby9. Nothing in this agreement
+   limits your rights under those licences.
+
+5. Services Tabby9 works with
+
+   Tabby9 works with other products and services, including Claude Code by
+   Anthropic, GitHub and the GitHub CLI, and Git. We don't provide those
+   services and aren't responsible for them. Your use of them is governed by
+   their own terms, and any costs or usage limits they apply are yours.
+   Figures Tabby9 shows about usage, limits or cost are estimates to help
+   you; they are not a bill and may differ from the provider's own figures.
+
+6. Updates and future versions
+
+   Tabby9 checks for and installs updates automatically. We may change,
+   suspend or stop offering Tabby9 or any feature at any time. Future
+   versions, or particular features, may be offered on different terms,
+   including for a fee; those terms will be shown to you before they apply.
+
+7. Privacy
+
+   How Tabby9 handles information is described in PRIVACY.md, which comes
+   with Tabby9.
+
+8. No warranty
+
+   To the extent permitted by law, Tabby9 is provided "as is" and "as
+   available", without warranties or representations of any kind, whether
+   express or implied, including any about merchantability, fitness for a
+   particular purpose, accuracy or that it will be error-free or
+   uninterrupted.
+
+9. Limitation of liability
+
+   To the extent permitted by law, we are not liable to you for any loss or
+   damage arising out of or in connection with Tabby9 or this agreement,
+   including loss of data, profit, revenue or business, or any indirect or
+   consequential loss, however caused.
+
+10. Australian Consumer Law
+
+   Nothing in this agreement excludes, restricts or modifies any guarantee,
+   right or remedy you have under the Australian Consumer Law (Schedule 2 of
+   the Competition and Consumer Act 2010 (Cth)) or any other law that cannot
+   lawfully be excluded. Where our liability for breach of such a guarantee
+   can be limited, and Tabby9 is not of a kind ordinarily acquired for
+   personal, domestic or household use, our liability is limited, at our
+   option, to supplying Tabby9 again or paying the cost of having it
+   supplied again.
+
+11. Ending this agreement
+
+   This agreement continues until it ends. It ends automatically if you
+   breach it. You can end it at any time by uninstalling Tabby9. When it
+   ends you must stop using Tabby9 and uninstall it. Sections 3, 4 and 8 to
+   12 continue after it ends.
+
+12. General
+
+   This agreement is governed by the laws of New South Wales, Australia, and
+   you and we submit to the courts of that State. If any part of it is
+   unenforceable, the rest remains in effect. This is the whole agreement
+   between you and us about Tabby9.
+
+Contact: https://github.com/PurpleFusion
