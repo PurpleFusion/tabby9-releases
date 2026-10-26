@@ -13,6 +13,7 @@ This information stays on your computer. Tabby9 keeps its own settings, tabs and
 ## What Tabby9 sends, and where
 
 - **Update checks:** to GitHub (`github.com/PurpleFusion/tabby9-releases`), to see whether a new version is available and download it. GitHub sees the request as it would any download.
+- **Supporters list:** when you open Settings → About & updates, Tabby9 downloads the public list of supporters from the same GitHub repo. Nothing is sent with the request.
 - **GitHub features:** only if you use them, and only through your own GitHub CLI (`gh`) sign-in. Examples are creating repos, checking Dependabot alerts and cloning.
 - **Claude:** Claude Code, which Tabby9 starts for you, talks to Anthropic under Anthropic's own terms. Tabby9 adds nothing to that.
 
