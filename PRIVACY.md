@@ -10,6 +10,8 @@ Tabby9 is a desktop app made by Vidos Consulting Pty Ltd. It runs on your comput
 
 This information stays on your computer. Tabby9 keeps its own settings, tabs and caches in `%APPDATA%\Tabby9`.
 
+If you turn on **Enable beta features**, some beta features write a debug log to the same folder, to help get them right. The log stays on your computer and isn't sent anywhere. You can delete it at any time.
+
 ## What Tabby9 sends, and where
 
 - **Update checks:** to GitHub (`github.com/PurpleFusion/tabby9-releases`), to see whether a new version is available and download it. GitHub sees the request as it would any download.
