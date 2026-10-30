@@ -1,4 +1,6 @@
 {
-  "updated": "2026-10-26",
-  "supporters": []
+  "updated": "2026-10-30",
+  "supporters": [
+    { "name": "@scarlettai-nick", "url": "https://github.com/scarlettai-nick", "amount": 5 }
+  ]
 }
